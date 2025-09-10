@@ -51,6 +51,7 @@ cd ..
 ### 2. Crie a função Lambda
 
 - No console AWS Lambda, crie uma nova função (Python 3.8 ou superior).
+- Informe que a funcão terá uma URL
 - Faça upload do arquivo `deployment-package.zip` como código da função.
 
 ### 3. Configure o handler
